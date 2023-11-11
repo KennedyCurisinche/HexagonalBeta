@@ -1,0 +1,2 @@
+# HexagonalBeta
+Arquitectura Hexagonal
